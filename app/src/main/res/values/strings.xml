@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">[MiW] Diálogos</string>
+
+    <!-- Menú -->
+    <string name="txtSalir">Salir</string>
+
+    <!-- Diálogo -->
+    <string name="títuloDiálogo">Confirmación</string>
+    <string name="msgDiálogo">¿Desea Salir?</string>
+    <string name="diálogoSí">Sí</string>
+    <string name="diálogoNo">No</string>
+</resources>
