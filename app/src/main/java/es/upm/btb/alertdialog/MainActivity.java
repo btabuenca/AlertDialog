@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
                 dpdf.show(getSupportFragmentManager(), "DatePickerDialog");
                 return true;
             case R.id.opcionSalir:
-                ExitDialogFragment dialogFragment = new ExitDialogFragment();
+                AlertDialogFragment dialogFragment = new AlertDialogFragment();
                 dialogFragment.show(getSupportFragmentManager(), "ExitDialog");
                 return true;
             default:

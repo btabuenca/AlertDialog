@@ -8,7 +8,7 @@ import android.os.Bundle;
 import androidx.fragment.app.DialogFragment;
 
 
-public class ExitDialogFragment extends DialogFragment {
+public class AlertDialogFragment extends DialogFragment {
 
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState) {
