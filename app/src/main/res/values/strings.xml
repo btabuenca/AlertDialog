@@ -1,12 +1,13 @@
 <resources>
-    <string name="app_name">[MiW] Diálogos</string>
+    <string name="app_name">AlertDialog</string>
 
     <!-- Menú -->
     <string name="txtSalir">Salir</string>
+    <string name="txtCalendar">Calendar</string>
 
     <!-- Diálogo -->
-    <string name="títuloDiálogo">Confirmación</string>
-    <string name="msgDiálogo">¿Desea Salir?</string>
-    <string name="diálogoSí">Sí</string>
-    <string name="diálogoNo">No</string>
+    <string name="titulo">Confirmación</string>
+    <string name="mensaje">¿Desea Salir?</string>
+    <string name="mensajeSi">Sí</string>
+    <string name="mensajeNo">No</string>
 </resources>

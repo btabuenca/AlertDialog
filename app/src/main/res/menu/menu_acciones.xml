@@ -2,6 +2,11 @@
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <item
+        android:id="@+id/opcionCalendar"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="@string/txtCalendar"
+        app:showAsAction="withText|always" />
+    <item
         android:id="@+id/opcionSalir"
         android:icon="@android:drawable/ic_menu_close_clear_cancel"
         android:title="@string/txtSalir"
